@@ -25,7 +25,6 @@ https://xSpeedyDoge.com
 dogecare@protonmail.com
 
 ---
-分割线
 ---
 
 ## 公告 | Announcement
