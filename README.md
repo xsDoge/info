@@ -2,7 +2,8 @@
 本项目用于发布最新信息, 请收藏网页或星标
 
 请同时**收藏**下列网址 **作为备份**:
-`https://gitlab.com/xsdoge/info`
+
+https://gitlab.com/xsdoge/info
 
 
 ## 信息更新
