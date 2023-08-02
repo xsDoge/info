@@ -10,7 +10,6 @@ https://gitlab.com/xsdoge/info
 
 ### 域名
 最新域名:
-
 https://www.pkqcloudx.com
 
 永久域名:
@@ -23,7 +22,6 @@ https://xSpeedyDoge.com
 
 #### 以上方法均失效时, 可联系管理员邮箱
 邮箱:
-
 dogecare@protonmail.com
 
 ---
