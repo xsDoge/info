@@ -9,14 +9,14 @@ https://gitlab.com/xsdoge/info
 
 ### 域名
 最新域名 (2026-08-09 更新):
-https://portal.dogecloudx.com
+https://www.dogecloud0.com
 
 备用域名:
-https://www.pkqcloudx.com
+https://portal.dogecloud0.com
 
 永久域名:
 https://xsdoge.com
-https://www.dogecloudx.com
+https://dogecloudx.com
 
 
 #### 以上方法均失效时, 可联系管理员邮箱
